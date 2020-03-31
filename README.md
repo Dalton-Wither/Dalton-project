@@ -1,3 +1,3 @@
 # minedustry-project
 
-Hello, this will be where I'll store the files for my content
+Hello, this will be where I'll store my mindustry projects
